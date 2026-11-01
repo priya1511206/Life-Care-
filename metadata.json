@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Hospital Management System",
+  "description": "Beginner-friendly Hospital Management System for college OOPS and DBMS mini projects with admin login, patient registration, doctor schedules, appointment booking, medical records, and complete MySQL + Java JDBC reference code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
